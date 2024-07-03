@@ -1,0 +1,7 @@
+div{
+    background-color: aquamarine;
+    border: 5px solid rgb(59, 97, 199);
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px;
+}
